@@ -1,16 +1,32 @@
-# carbon_emission_app
+Carbon Emission Tracker 🌍 | Flutter App
 
-A new Flutter project.
+A Flutter-based app that calculates transportation-related carbon emissions using the Carbonsutra API.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+🔹 Features
+📌 Enter distance, fuel type, and vehicle type
+⚡ Get real-time carbon emission estimates
+🔐 Secure API integration with authentication token
+📱 Works on iOS and Android
+🔹 Tech Stack
+Flutter (Dart)
+Riverpod (State Management)
+REST API (Carbonsutra API)
+🔹 Setup Instructions
+Clone the repo:
+bash
+Copy
+Edit
+git clone https://github.com/sara1110/carbon-emission-tracker.git
+cd carbon-emission-tracker
+Install dependencies:
+bash
+Copy
+Edit
+flutter pub get  
+Run the app:
+bash
+Copy
+Edit
+flutter run  
+💡 Contributions & Issues
+Feel free to open an issue or contribute! 🚀
